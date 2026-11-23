@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DaoProductAppApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DaoProductAppApplication.class, args);
+                SpringApplication.run(DaoProductAppApplication.class, args);
     }
 
 }
